@@ -105,6 +105,3 @@ This repository contains a collection of popular **data structure coding questio
 - Try solving problems in both brute-force and optimized ways.
 - Practice using Python collections like `deque`, `set`, `defaultdict`, etc.
 
----
-
-📌 **Happy Coding! Keep Practicing and Strengthen Your DSA Foundations!**

@@ -75,13 +75,5 @@ This repository contains beginner to intermediate level **Python string coding p
 - **Task:** Find the first occurrence of one string in another without using built-in functions.  
 - 💡 *Tests understanding of pattern matching and substring search.*
 
----
 
-## 🚀 Contributing
-Feel free to fork the repo, add your solutions, and create a pull request!
-
-## 📚 License
-This project is licensed under the MIT License.
-
----
 

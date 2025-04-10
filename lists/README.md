@@ -69,4 +69,3 @@ This repository contains commonly asked **Python list-based interview questions*
 
 ---
 
-🧠 **Happy Coding & Good Luck With Your Interviews!**

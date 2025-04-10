@@ -67,4 +67,3 @@ This collection contains essential **beginner-level Python questions** that focu
 
 ---
 
-📌 **Practice these regularly to strengthen your Python foundations!**

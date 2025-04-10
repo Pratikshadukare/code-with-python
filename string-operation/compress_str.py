@@ -17,6 +17,7 @@ for i in input_string:
 for k,v in d.items():
     out_str = out_str+k+str(v)
     out_str2= out_str2+str(v)+k
+    
 print(out_str)
 print(out_str2)
 

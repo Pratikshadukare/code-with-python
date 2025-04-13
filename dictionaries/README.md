@@ -60,14 +60,3 @@ This repository contains a curated list of **dictionary-based Python interview q
    ➤ Input: `[1, 2, 3, 2, 1]` → Output: `1, 2 are duplicates`
 
 ---
-
-## ✅ Tips for Interview Preparation
-
-- Focus on understanding how hashing works in Python.
-- Practice using dictionary comprehensions and built-in methods.
-- Try solving each problem without using external libraries.
-- Use nested loops and conditions logically for complex dict-based operations.
-
----
-
-🧠 **Keep Practicing and Master the Dictionary Data Structure!**

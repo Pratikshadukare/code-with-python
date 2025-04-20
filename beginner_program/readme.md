@@ -6,7 +6,6 @@ This collection contains essential **beginner-level Python questions** that focu
 
 ## 🔢 Numbers & Math Logic
 
-1. **Check whether a number is even or odd**
 2. **Check if a number is prime**
 3. **Find the factorial of a number**
 4. **Check whether a number is an Armstrong number**
@@ -28,42 +27,3 @@ This collection contains essential **beginner-level Python questions** that focu
 15. **Find the sum of first N natural numbers**
 
 ---
-
-## 🧰 Functions and Modules
-
-16. **Define a function to check if a number is prime**
-17. **Recursive function to calculate factorial**
-18. **Create a basic calculator using functions**
-19. **Use `math` module to find square root and power**
-20. **Function to count even and odd numbers in a list**
-
----
-
-## 📂 Files and Input/Output
-
-21. **Read a text file and count number of lines**
-22. **Write user input into a text file**
-23. **Read and print content of a file**
-24. **Count number of words in a file**
-25. **Append data to an existing file**
-
----
-
-## 🧠 General Python Questions
-
-26. **Swap two numbers without using a third variable**
-27. **Convert decimal to binary, octal, and hexadecimal**
-28. **Find ASCII value of a character**
-29. **Use `map()` and `filter()` with lambda functions**
-30. **Use `zip()` to combine two lists element-wise**
-
----
-
-## ✅ Tips
-
-- Focus on logic building through loops and conditionals.
-- Try writing functions for reusability and clarity.
-- Use built-in functions and libraries like `math`, `itertools`, and `functools`.
-
----
-
